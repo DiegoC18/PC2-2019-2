@@ -1,3 +1,6 @@
+import os
+os.system("cls")
+
 print ("-----Bienvenidos al programa de inscripcion del curso de natacion-----")
 
 n_alumn = 0

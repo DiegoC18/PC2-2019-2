@@ -1,0 +1,1 @@
+n = int(input("de que tamaño es la matriz?: "))
